@@ -25,7 +25,7 @@ B.Tech CSE (AI/ML) student building LLM apps, AI agents, and ML systems. I ship 
 
 ### ./stack
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,linux,git,aws" />
+  <img src="https://skillicons.dev/icons?i=py,ts,javascript,react,nextjs,nodejs,fastapi,postgres,docker,linux,git,supabase,vercel" />
 </p>
 
 ### ./activity
