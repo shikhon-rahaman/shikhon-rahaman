@@ -29,4 +29,4 @@ B.Tech CSE (AI/ML) student building LLM apps, AI agents, and ML systems. I ship 
 </p>
 
 ### ./activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhon-rahaman&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhon-rahaman&theme=dark&v=2" />
