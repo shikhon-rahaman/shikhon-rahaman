@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <style>
+    .t{font-family:monospace}
+    .cur{animation:b 1s steps(2) infinite}
+    @keyframes b{50%{opacity:0}}
+  </style>
+  <rect width="800" height="200" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="40" y="80" class="t" font-size="16" fill="#3fb950">shikhon@github <tspan fill="#8b949e">:~ $ whoami</tspan></text>
+  <text x="40" y="125" class="t" font-size="34" font-weight="bold" fill="#58a6ff">shikhon rahaman</text>
+  <text x="40" y="160" class="t" font-size="16" fill="#8b949e">ai / ml / agents / llm apps</text>
+  <rect class="cur" x="310" y="146" width="9" height="18" fill="#58a6ff"/>
+</svg>
